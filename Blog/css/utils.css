@@ -1,0 +1,20 @@
+:root{
+    --main-bg-color: orange;
+}
+
+.max-width-1{
+    max-width: 60vw;
+    height: 50vh;
+}
+
+.max-width-2{
+    max-width: 80vw;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.btn{
+
+}
